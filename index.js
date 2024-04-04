@@ -19,6 +19,7 @@
   var Marzipano = window.Marzipano;
   var bowser = window.bowser;
   var screenfull = window.screenfull;
+  screenful.enabled = true;
   var data = window.APP_DATA;
 
   // Grab elements from DOM.
